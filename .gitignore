@@ -1,4 +1,9 @@
+__ignore/
 lfw/
+lfw.tgz
+Jetson_TK1/
+face_recognition/
+Smart Campus/
 
 
 # Byte-compiled / optimized / DLL files
@@ -130,3 +135,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+.vscode/
