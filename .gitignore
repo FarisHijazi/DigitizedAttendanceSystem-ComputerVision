@@ -4,6 +4,7 @@ lfw.tgz
 Jetson_TK1/
 face_recognition/
 Smart Campus/
+data/class_student_images/
 
 
 # Byte-compiled / optimized / DLL files
